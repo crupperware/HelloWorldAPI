@@ -16,3 +16,6 @@ API_BaseURI key. This will allow for the console app to connect to the API if th
 The console app and the API communicate through data transfer objects. Theses mirroed classes allow for easy json or xml 
 data transfer that is quickly serializable. This allows the API to expose data and have the requester conform to the 
 json (or xml) received without needing to be coupled to a common package of models. 
+
+
+Note if you go to the API home page it will give you a live status of the API if it is running or not running.
