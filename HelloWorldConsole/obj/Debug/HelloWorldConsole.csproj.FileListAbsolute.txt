@@ -1,0 +1,10 @@
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe.config
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldConsole\bin\Debug\HelloWorldConsole.exe
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldConsole\bin\Debug\HelloWorldConsole.pdb
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldConsole\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldConsole\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldConsole\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldConsole\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldConsole\obj\Debug\HelloWorldConsole.exe
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldConsole\obj\Debug\HelloWorldConsole.pdb
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldConsole\obj\Debug\HelloWorldConsole.csprojResolveAssemblyReference.cache

@@ -1,0 +1,28 @@
+﻿<div class="jumbotron">
+    <h1>Hello Wrold API</h1>
+
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <h2>API status:</h2>
+        <h2 id="APIStatusLabel"></h2>
+    </div>
+</div>
+
+<script src="~/Scripts/API_check.js"></script>
+<script src="~/Scripts/jquery-3.2.1.min.js"></script>
+
+<script>
+
+    function startTimer() {
+        var tid = setInterval(checkAPIRunning, 2000);
+
+    }
+    $(document).ready(function () {
+        checkAPIRunning();
+        startTimer();
+
+});
+
+</script>
+

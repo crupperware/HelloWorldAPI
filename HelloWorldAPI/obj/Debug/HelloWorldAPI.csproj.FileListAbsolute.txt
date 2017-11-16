@@ -1,0 +1,145 @@
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\ApplicationInsights.config
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\csc.exe
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\csc.exe.config
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\csc.rsp
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\csi.exe
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\csi.rsp
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\System.AppContext.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\vbc.exe
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\vbc.exe.config
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\vbc.rsp
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\HelloWorldAPI.dll.config
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\HelloWorldAPI.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\HelloWorldAPI.pdb
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Antlr3.Runtime.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.Web.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Newtonsoft.Json.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Helpers.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Http.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Mvc.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Optimization.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Razor.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.WebPages.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\WebGrease.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Newtonsoft.Json.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Helpers.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Http.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Mvc.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Optimization.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Razor.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.WebPages.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Antlr3.Runtime.pdb
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.Web.xml
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\obj\Debug\HelloWorldAPI.csprojResolveAssemblyReference.cache
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\obj\Debug\HelloWorldAPI.dll
+C:\Users\Sam\Documents\Visual Studio 2017\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\obj\Debug\HelloWorldAPI.pdb
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\ApplicationInsights.config
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\csc.exe
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\csc.exe.config
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\csc.rsp
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\csi.exe
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\csi.rsp
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\System.AppContext.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\vbc.exe
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\vbc.exe.config
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\vbc.rsp
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\HelloWorldAPI.dll.config
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\HelloWorldAPI.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\HelloWorldAPI.pdb
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Antlr3.Runtime.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.Web.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.WindowsServer.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.ApplicationInsights.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Newtonsoft.Json.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Net.Http.Formatting.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Helpers.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Http.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Http.WebHost.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Mvc.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Optimization.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Razor.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.WebPages.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.WebPages.Razor.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\WebGrease.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Newtonsoft.Json.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Net.Http.Formatting.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Helpers.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Http.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Http.WebHost.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Mvc.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Optimization.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.Razor.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.WebPages.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\System.Web.WebPages.Razor.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Antlr3.Runtime.pdb
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.ApplicationInsights.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.WindowsServer.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.Web.xml
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\obj\Debug\HelloWorldAPI.dll
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\obj\Debug\HelloWorldAPI.pdb
