@@ -143,3 +143,4 @@ D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.WindowsSe
 D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\bin\Microsoft.AI.Web.xml
 D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\obj\Debug\HelloWorldAPI.dll
 D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\obj\Debug\HelloWorldAPI.pdb
+D:\Projects\Crowe Horwath\HelloWorldAPI\HelloWorldAPI\obj\Debug\HelloWorldAPI.csprojResolveAssemblyReference.cache
